@@ -4,3 +4,12 @@
 
 a = 11
 b = 42
+tmp = a
+
+a = b
+
+b = tmp
+
+
+print("valeur de a : ", a)
+print("valeur de b : ", b)
