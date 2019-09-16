@@ -7,3 +7,11 @@
 #                       Sinon, elle est bissextile.
 #
 # Résultat attendu : Un message affichant "Année bissextile" ou "Année non bissextile"
+
+année = 2019
+
+div = année / 4
+
+
+print(div)
+
